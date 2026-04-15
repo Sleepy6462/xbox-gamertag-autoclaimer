@@ -1,0 +1,24 @@
+{
+  "gamertags": [
+    "CoolTag2025",
+    "ProGamer123",
+    "ElitePlayer99",
+    "ShadowNinja",
+    "PhantomLord"
+  ],
+  "check_interval": 30,
+  "timeout": 10,
+  "enable_auto_claim": false,
+  "xbox_credentials": {
+    "username": "",
+    "password": ""
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "gamertag_autoclaimer.log"
+  },
+  "notifications": {
+    "discord_webhook": "",
+    "email": ""
+  }
+}
